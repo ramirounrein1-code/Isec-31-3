@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(124, 124, 192);
+    background-color: rgb(190, 101, 186);
 }
 div {
     width: 50%;
@@ -17,4 +17,10 @@ background-color: bisque;
 
 .caja {
     width: 400px;
+}
+
+.tituloNuevo {
+    text-align: center;
+    width: 50%;
+    margin: 20px;
 }
