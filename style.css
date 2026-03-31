@@ -23,4 +23,12 @@ background-color: bisque;
     text-align: center;
     width: 50%;
     margin: 20px;
+    padding: 30px;
+}
+
+img {
+    background-color: yellow;
+    padding: 30px;
+    border: blue solid 5px;
+    margin: 50px;
 }
