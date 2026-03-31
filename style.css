@@ -1,3 +1,20 @@
 body {
     background-color: blue;
 }
+div {
+    width: 50%;
+    margin: 2%;
+    height: 200px;
+}
+
+#padre{
+background-color: brown;
+}
+
+#hijo {
+background-color: bisque;
+}
+
+.caja {
+    width: 400px;
+}
